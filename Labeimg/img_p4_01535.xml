@@ -1,7 +1,7 @@
 <annotation>
 	<folder>imagens</folder>
-	<filename>img_p4_01532.jpg</filename>
-	<path>/home/anghelo/Documentos/GITRepositorios/ImagenesLAbe/imagens/img_p4_01532.jpg</path>
+	<filename>img_p4_01535.jpg</filename>
+	<path>/home/anghelo/Documentos/GITRepositorios/ImagenesLAbe/imagens/img_p4_01535.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1130</xmin>
-			<ymin>398</ymin>
-			<xmax>1179</xmax>
-			<ymax>446</ymax>
+			<xmin>683</xmin>
+			<ymin>319</ymin>
+			<xmax>761</xmax>
+			<ymax>374</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1100</xmin>
-			<ymin>603</ymin>
-			<xmax>1168</xmax>
-			<ymax>672</ymax>
+			<xmin>639</xmin>
+			<ymin>402</ymin>
+			<xmax>678</xmax>
+			<ymax>472</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>580</xmin>
-			<ymin>349</ymin>
-			<xmax>656</xmax>
-			<ymax>391</ymax>
+			<xmin>456</xmin>
+			<ymin>421</ymin>
+			<xmax>496</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>525</xmin>
-			<ymin>434</ymin>
-			<xmax>583</xmax>
-			<ymax>483</ymax>
+			<xmin>389</xmin>
+			<ymin>149</ymin>
+			<xmax>446</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>292</xmin>
-			<ymin>170</ymin>
-			<xmax>363</xmax>
-			<ymax>222</ymax>
+			<xmin>1186</xmin>
+			<ymin>319</ymin>
+			<xmax>1223</xmax>
+			<ymax>365</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>348</xmin>
-			<ymin>442</ymin>
-			<xmax>406</xmax>
-			<ymax>492</ymax>
+			<xmin>105</xmin>
+			<ymin>224</ymin>
+			<xmax>153</xmax>
+			<ymax>247</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,22 +89,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1051</xmin>
-			<ymin>327</ymin>
-			<xmax>1095</xmax>
-			<ymax>384</ymax>
+			<xmin>458</xmin>
+			<ymin>285</ymin>
+			<xmax>492</xmax>
+			<ymax>307</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>29</xmin>
-			<ymin>242</ymin>
-			<xmax>68</xmax>
-			<ymax>274</ymax>
+			<xmin>1148</xmin>
+			<ymin>1</ymin>
+			<xmax>1185</xmax>
+			<ymax>19</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,58 +113,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2</xmin>
-			<ymin>413</ymin>
-			<xmax>360</xmax>
+			<xmin>246</xmin>
+			<ymin>538</ymin>
+			<xmax>539</xmax>
 			<ymax>720</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>819</xmin>
-			<ymin>1</ymin>
-			<xmax>873</xmax>
-			<ymax>26</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weed</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1056</xmin>
-			<ymin>11</ymin>
-			<xmax>1093</xmax>
-			<ymax>34</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weed</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>338</xmin>
-			<ymin>234</ymin>
-			<xmax>367</xmax>
-			<ymax>260</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weed</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>367</xmin>
-			<ymin>307</ymin>
-			<xmax>415</xmax>
-			<ymax>325</ymax>
+			<xmin>1</xmin>
+			<ymin>394</ymin>
+			<xmax>289</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>

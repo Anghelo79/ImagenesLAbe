@@ -1,7 +1,7 @@
 <annotation>
 	<folder>imagens</folder>
 	<filename>img_p4_01533.jpg</filename>
-	<path>/mnt/718e6f4a-a30e-4cd0-a61b-dd891002a879/EmergentesImagenes/imagens/img_p4_01533.jpg</path>
+	<path>/home/anghelo/Documentos/GITRepositorios/ImagenesLAbe/imagens/img_p4_01533.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,18 +69,6 @@
 			<ymin>164</ymin>
 			<xmax>385</xmax>
 			<ymax>216</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weed</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>278</xmin>
-			<ymin>83</ymin>
-			<xmax>399</xmax>
-			<ymax>158</ymax>
 		</bndbox>
 	</object>
 	<object>
